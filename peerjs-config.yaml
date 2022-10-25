@@ -1,5 +1,5 @@
 # Signaling PnP Server info
-host: ambianic-pnp.herokuapp.com
+host: wincom-iot.herokuapp.com
 port: 443
 secure: true
 # STUN/TURN servers info
