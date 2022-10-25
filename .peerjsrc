@@ -1,0 +1,3 @@
+host: wincom-iot.herokuapp.com
+port: 443
+secure: true
